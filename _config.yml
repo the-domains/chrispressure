@@ -1,4 +1,3 @@
-layout_spectrum: 0.6279043017420918
 typography_spectrum: 0.07476249593310058
 color:
   brandStrength: 0.9658667789772153
@@ -11,4 +10,7 @@ color:
     - '#505217'
     - '#FFD372'
     - '#FFF1AF'
+layout_spectrum: 0.6279043017420918
+analytics:
+  google: UA-24452840-2
 name: chrs
